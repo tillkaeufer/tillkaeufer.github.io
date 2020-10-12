@@ -3,7 +3,7 @@ layout: post
 title: My Path
 permalink: 'cv'
 ---
-<img src="/images/golf.jpg" class="fit image">
+[<img src="/images/golf.jpg" class="fit image">](/cv)
 
 ## Curriculum vitae
 + 2020 - now: PhD in Astronomy at the University of St Andrews, UK

@@ -3,7 +3,7 @@ layout: post
 title: PhD thesis
 permalink: 'phd'
 ---
-<img src="/images/protoplanetary_disk.jpg" class="fit image">
+[<img src="/images/protoplanetary_disk.jpg" class="fit image">](/phd)
 
 Spectral features emitted by molecules situated in the upper layers of protoplanetary
 disks, as for example observable in the near to mid infrared with VLT and JWST, in

@@ -4,7 +4,7 @@ title: CHAMELEON
 permalink: 'chameleon'
 ---
 
-<img src="/images/Chameleon.jpg" class="fit image">
+[<img src="/images/Chameleon.jpg" class="fit image">](/chameleon)
 
 CHAMELEON is a Marie Curie Innovative Training Network, which focus on the development of Virtual Laboratories.  
 These tools can be used to analyse disk and exoplanet observations.  
