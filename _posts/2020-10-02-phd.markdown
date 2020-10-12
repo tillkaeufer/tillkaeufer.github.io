@@ -1,0 +1,22 @@
+---
+layout: post
+title: PhD thesis
+permalink: 'phd'
+---
+<img src="/images/protoplanetary_disk.jpg" class="fit image">
+
+Spectral features emitted by molecules situated in the upper layers of protoplanetary
+disks, as for example observable in the near to mid infrared with VLT and JWST, in
+principle allow us to determine the temperature and chemical composition of the gas in
+the planet forming regions of the disks within ~10 au, which has important implications
+for planet formation. My project combines our expertise in modelling molecular
+emission bands from protoplanetary disks (Woitke et al. 2016, A&A 586, 103) with new
+machine learning techniques developed in the exoplanet community. Our ambitious aim
+is to train AI systems based on the spectra predicted by our complex disk models, where
+we put in all the relevant astrochemistry, radiative transfer and heating/cooling physics.
+Those AI systems can then quickly predict the emergent line emission spectra as
+function of the physical input parameters like element abundances, temperature profile,
+UV irradiation, dust/gas ratio, etc., which will allow us to thoroughly fit and analyse
+observational data and determine the physical disk parameters and their observational
+uncertainties including their error bars.
+

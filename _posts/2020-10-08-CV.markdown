@@ -1,0 +1,14 @@
+---
+layout: post
+title: My Path
+permalink: 'cv'
+---
+<img src="/images/golf.jpg" class="fit image">
+
+## Curriculum vitae
++ 2020 - now: PhD in Astronomy at the University of St Andrews, UK
++ 2018 -2020: M.Sc. in Physics at the Ruhr-University Bochum, Germany  
+Theses: Analysing the Performance of Self-Organizing Maps for the Classification of Low Surface Brightness Objects
++ 2015 - 2018: B.Sc. in Physics at the Ruhr-University Bochum, Germany  
+Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry 
+
