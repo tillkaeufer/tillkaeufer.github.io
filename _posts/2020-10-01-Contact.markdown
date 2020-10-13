@@ -1,0 +1,19 @@
+---
+layout: post
+title: Where to find me
+permalink: 'contact'
+---
+
+[<img src="/images/bike.jpg" class="fit image">](/contact)
+
+
+## Contact Information
+
+Till Käufer (he/him)  
+Post graduate researcher (Marie Curie Fellow)  
+School of Physics and Astronomy  
+University of St Andrews  
+North Haugh  
+KY16 9SS St Andrews, UK  
+Email: tfk1@st-andrews.ac.uk  
+Please don't hasitate to contact me. 

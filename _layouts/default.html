@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="{{ site.author.name }}">
+		<meta name="description" content="{{ site.description }}">
+		<meta http-equiv="content-language" content="{{ site.locale }}" />
+		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
+
+		<!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
+		<link rel="stylesheet" href="/css/main.css">
+		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
+<link rel="apple-touch-icon" sizes="57x57" href="flavicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="flavicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="flavicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="flavicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="flavicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="flavicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="flavicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="flavicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="flavicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="flavicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="flavicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="flavicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="flavicons/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="flavicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+    {% seo %}
+    {% feed_meta %}
+
+	</head>
+
+	<body id="top">
+    <header id="header">
+      <a href="/" class="image avatar"><img class="editable" src="/images/profil_image_1.jpg" alt="{{ site.author.name }}"></a>
+      <h1 class="editable"><strong><a href="/">Till Käufer</a>.<br/>
+      PhD Student in Astronomy.<br/>
+      Email: tfk1@st-andrews.ac.uk</strong></h1>
+      
+    </header>
+
+    {{ content }}
+
+    <footer id="footer">
+      <p class="editor-link"><a href="cloudcannon:collections/_data/social.yml" class="button"><strong>&#9998;</strong> Update Social Icons</a></p>
+      <ul class="icons">
+        {% for account in site.data.social %}
+					<li>
+						<a {% if account.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=account.link %}" {% if account.social_icon %}class="icon fa-{{ account.social_icon | slugify }}"{% endif %}>
+              <span class="label">{{ account.name }}</span>
+						</a>
+					</li>
+				{% endfor %}
+        {% if site.author.email %}
+        <li>
+          <a href="mailto:{{ site.author.email }}" class="icon fa-envelope-o">
+            <span class="label">Email</span>
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+      <br> 
+      <ul class="copyright">
+          <li>&copy; T. Kaeufer</li>
+          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          <li>Theme: <a href="http://comfusionllc.com">Comfusion LLC</a></li>
+      </ul>
+    </footer>
+
+		<script src="/js/jquery.min.js"></script>
+		<script src="/js/jquery.poptrox.min.js"></script>
+		<script src="/js/skel.min.js"></script>
+		<script src="/js/util.js"></script>
+		<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
+		<script src="/js/main.js"></script>
+
+		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+			<script>
+				(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+
+				ga("create", "{{ site.google_analytics_key }}", "auto");
+				ga("send", "pageview");
+			</script>
+		{% endif %}
+
+	</body>
+</html>

@@ -1,0 +1,5 @@
+- name: Instagram
+  link: 'https://www.instagram.com/dieschoeneunddergeek/'
+  social_icon: Instagram
+  new_window: true
+

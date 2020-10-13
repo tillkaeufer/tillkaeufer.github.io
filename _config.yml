@@ -1,0 +1,49 @@
+locale: "en-US"
+title: Till Käufer # Title of your site
+url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: "UA-180557429-1"
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: Website of Till Käufer, PhD student in Astronomy at the University of St Andrews, a member of the St Andrews Centre for Exoplanet Science, and an Early Stage Researcher in the CHALEMEON network.
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name: Till Kaeufer
+  email: tfk1@st-andrews.ac.uk
+  
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Strata Reloaded Template
+  links:
+    - https://github.com/comfusion/strata-reloaded-jekyll-template
+
+permalink: pretty
+
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google: # 1234
+  bing: # 1234
+  alexa: # 1234
+  yandex: # 1234
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
+
