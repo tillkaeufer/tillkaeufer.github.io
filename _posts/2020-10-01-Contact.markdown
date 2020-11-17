@@ -12,7 +12,7 @@ permalink: 'contact'
 Till Käufer (he/him)  
 Post graduate researcher (Marie Curie Fellow)  
 School of Physics and Astronomy  
-University of St Andrews  
+University of St&nbsp;Andrews  
 North Haugh  
 KY16 9SS St Andrews, UK  
 Email: tfk1@st-andrews.ac.uk  
