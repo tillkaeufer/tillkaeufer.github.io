@@ -1,0 +1,24 @@
+---
+layout: post
+title: My Skills
+permalink: 'skills'
+---
+
+[<img src="/images/chess.jpg" class="fit image">](/skills)
+
+
+## My Skills and Interests
+
+### Astronomy
+- Protoplanetary Disks
+- ProDiMo, prodimopy
+- SED fitting
+- Low Surface Brightness Galaxies
+
+### Programming
+- Python
+- Machine Learning
+- Neuronal Networks
+- Unsupervised Learning
+- Self-Organizing Maps
+
