@@ -4,7 +4,7 @@ title: Where to find me
 permalink: 'contact'
 ---
 
-[<img src="/images/bike.jpg" class="fit image">](/contact)
+[<img src="/images/elie.gif" class="fit image">](/contact)
 
 
 ## Contact Information

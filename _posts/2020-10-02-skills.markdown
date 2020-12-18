@@ -7,7 +7,7 @@ permalink: 'skills'
 [<img src="/images/chess.jpg" class="fit image">](/skills)
 
 
-## My Skills and Interests
+## My Skills and Interests  
 
 ### Astronomy
 - Protoplanetary Disks
