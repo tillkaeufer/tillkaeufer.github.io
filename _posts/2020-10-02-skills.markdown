@@ -19,6 +19,7 @@ permalink: 'skills'
 - Python
 - Machine Learning
 - Neuronal Networks
+- Emulators
 - Unsupervised Learning
 - Self-Organizing Maps
 
