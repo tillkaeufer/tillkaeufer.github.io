@@ -1,0 +1,21 @@
+---
+layout: post
+title: Talks & Conferences
+permalink: 'events'
+---
+
+[<img src="/images/talk.gif" class="fit image">](/events)
+
+
+## Attended Conferences and Given Talks  
+
+### Conferences 
+- ProDiMo Day: 3 December 2020, remotely
+- CHAMELEON Network Kick-off Meeting: 23 - 26 November 2020, remotely
+- Scottish Exoplanet/Brown Dwarf Autumn Meeting SEBD 10: 21 October 2020, remotely
+
+
+### Talks
+- First Year Talk, St Andrews Astronomy Lunch Talk: 23 February 2020
+- 'Protoplanetary Disks: Understanding SEDs using Machine Learning', AIRUB Science Seminar: 17 February 2020
+
