@@ -14,7 +14,6 @@ permalink: 'events'
 - CHAMELEON Network Kick-off Meeting: 23 - 26 November 2020, remotely
 - Scottish Exoplanet/Brown Dwarf Autumn Meeting SEBD 10: 21 October 2020, remotely
 
-
 ### Talks
 - First Year Talk, St Andrews Astronomy Lunch Talk: 23 February 2020
 - 'Protoplanetary Disks: Understanding SEDs using Machine Learning', AIRUB Science Seminar: 17 February 2020
