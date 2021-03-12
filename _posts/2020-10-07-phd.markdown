@@ -5,6 +5,9 @@ permalink: 'phd'
 ---
 [<img src="/images/jump.jpg" class="fit image">](/phd)
 
+
+## PhD project
+
 Spectral features emitted by molecules situated in the upper layers of protoplanetary
 disks, as for example observable in the near to mid infrared with VLT and JWST, in
 principle allow us to determine the temperature and chemical composition of the gas in
