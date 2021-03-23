@@ -16,7 +16,7 @@ permalink: 'events'
 - Scottish Exoplanet/Brown Dwarf Autumn Meeting SEBD 10: 21 October 2020, remotely
 
 ### Talks
-- Host and Organizer of the Hands-on Session: Neural Networks, CHAMELEON School 1: 23 March 2021 </br>
+- Host and Organizer of the Hands-on Session: Neural Networks, CHAMELEON School 1: 23 March 2021  
   The [repository](https://github.com/tillkaeufer/chameleon_neural_network) with all information to do the session on your on is still online.
 - First Year Talk, St Andrews Astronomy Lunch Talk: 23 February 2021
 - 'Protoplanetary Disks: Understanding SEDs using Machine Learning', AIRUB Science Seminar: 17 February 2021
