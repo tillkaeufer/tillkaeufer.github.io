@@ -12,9 +12,9 @@ permalink: 'events'
 ### Conferences 
 - [Statistical Challenges in Modern Astronomy VII](https://astronomy.outreach.psu.edu/): 7 - 10 June 2021, remotely
 - Scottish Exoplanet/Brown Dwarf Spring Meeting [SEBD 11](https://sebd11.sciencesconf.org/): 26 April 2021, remotely 
-- [CHAMELEON School 1](https://github.com/tillkaeufer/chameleon_neural_network): 22 March - 25 March 2021, remotely
+- [CHAMELEON School 1](https://chameleon.wp.st-andrews.ac.uk/training-events/school-1/): 22 March - 25 March 2021, remotely
 - ProDiMo Day: 3 December 2020, remotely
-- [CHAMELEON Network Kick-off Meeting](https://github.com/tillkaeufer/chameleon_neural_network): 23 - 26 November 2020, remotely
+- [CHAMELEON Network Kick-off Meeting](https://chameleon.wp.st-andrews.ac.uk/training-events/kick-off-meeting/): 23 - 26 November 2020, remotely
 - Scottish Exoplanet/Brown Dwarf Autumn Meeting [SEBD 10](https://sebd10.sciencesconf.org/): 21 October 2020, remotely
 
 ### Talks
