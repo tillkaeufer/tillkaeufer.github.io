@@ -10,6 +10,7 @@ permalink: 'events'
 ## Attended Conferences and Given Talks  
 
 ### Conferences 
+- [Astrochemical Frontiers 2021](https://sites.google.com/view/astrochemical-frontiers-2021/home): 5 - 9 July 2021, remotely
 - [Statistical Challenges in Modern Astronomy VII](https://astronomy.outreach.psu.edu/): 7 - 10 June 2021, remotely
 - Scottish Exoplanet/Brown Dwarf Spring Meeting [SEBD 11](https://sebd11.sciencesconf.org/): 26 April 2021, remotely 
 - [CHAMELEON School 1](https://chameleon.wp.st-andrews.ac.uk/training-events/school-1/): 22 March - 25 March 2021, remotely
