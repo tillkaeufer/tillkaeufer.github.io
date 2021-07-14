@@ -6,9 +6,20 @@ permalink: 'cv'
 [<img src="/images/golf.jpg" class="fit image">](/cv)
 
 ## Curriculum vitae
-+ 2020 - now: PhD in Astronomy at the University of St&nbsp;Andrews, UK
+
+### Education
++ 2020 - now: PhD in Astronomy at the University of St&nbsp;Andrews, UK  
+Thesis: Machine Learning from Complex Disk Models
 + 2018 -2020: M.Sc. in Physics at the Ruhr-University Bochum, Germany  
 Thesis: Analysing the Performance of Self-Organizing Maps for the Classification of Low Surface Brightness Objects
 + 2015 - 2018: B.Sc. in Physics at the Ruhr-University Bochum, Germany  
 Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry 
 
+### Outreach and Teaching
++ 10/2020 - now: Host and Organizer of the [StA-CES Journal Club](https://exoplanets.wp.st-andrews.ac.uk/talks-and-journal-club/journal-club/)
++ 01/2021 - 05/2021: Tutor of Computational Astronomy at the University of St Andrews
++ 02/2021 - 04/2021: Patricipating Scientist at the StA-CES Anthology, Literature written on basis of Science
++ 05/2019 - 08/2020: [ZDI  Netzwerk  IST.Bochum](https://www.ist-bochum.org/),  Conducting scientific workshops in school classes
++ 06/2019 - 05/2020: Scientific assistant at the Ruhr University, Supervising observations from student groups 
++ 2014 - 2020: Tutor, Teaching students in mathematics
++ 2018: Poster, Searching diffuse Objects around NGC 7361 using the Kilo Degree Survey, Käufer, T., Bomans, D. J., Stein, M. and Weimann, S., Presented at "The BewilderingNature of Ultra-diffuse Galaxies" Workshop, Leiden, NL
