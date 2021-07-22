@@ -12,14 +12,13 @@ permalink: 'skills'
 ### Astronomy
 - Protoplanetary Disks
 - ProDiMo, prodimopy
-- SED fitting
-- Low Surface Brightness Galaxies
+- MCFOST
+- SEDs
 
 ### Programming
 - Python
 - Machine Learning
 - Neuronal Networks
 - Emulators
-- Unsupervised Learning
+- Fortran
 - Self-Organizing Maps
-
