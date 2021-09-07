@@ -16,9 +16,10 @@ Thesis: Analysing the Performance of Self-Organizing Maps for the Classification
 Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry 
 
 ### Outreach and Teaching
++ 07/2021: Workshop leader of Introduction to Python at the University of St Andrews
 + 10/2020 - now: Host and Organizer of the [StA-CES Journal Club](https://exoplanets.wp.st-andrews.ac.uk/talks-and-journal-club/journal-club/)
 + 01/2021 - 05/2021: Tutor of Computational Astronomy at the University of St Andrews
-+ 02/2021 - 04/2021: Patricipating Scientist at the StA-CES Anthology, Literature written on basis of Science
++ 02/2021 - 04/2021: Patricipating Scientist at the [StA-CES Anthology](http://www.guardbridgebooks.co.uk/shop/index.php?rt=product/product&product_id=146), Literature written on basis of Science
 + 05/2019 - 08/2020: [ZDI  Netzwerk  IST.Bochum](https://www.ist-bochum.org/),  Conducting scientific workshops in school classes
 + 06/2019 - 05/2020: Scientific assistant at the Ruhr University, Supervising observations from student groups 
 + 2014 - 2020: Tutor, Teaching students in mathematics
