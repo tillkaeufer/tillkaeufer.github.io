@@ -25,4 +25,11 @@ permalink: 'events'
   The [repository](https://github.com/tillkaeufer/chameleon_neural_network) with all information to do the session on your own is still online.
 - First Year Talk, St Andrews Astronomy Lunch Talk: 23 February 2021
 - 'Protoplanetary Disks: Understanding SEDs using Machine Learning', AIRUB Science Seminar: 17 February 2021
+- [StA-CES Journal Club](https://exoplanets.wp.st-andrews.ac.uk/talks-and-journal-club/journal-club/) talks:
+	- [Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights](https://arxiv.org/abs/2109.06268), 20 September 2021
+	- [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7), 28 June 2021
+	- [What Is Life: Various Definitions Towards The Contemporary Astrobiology](https://www.researchgate.net/publication/281452827_What_Is_Life_Various_Definitions_Towards_The_Contemporary_Astrobiology), 12 April 2021
+	- [Molecular water detected on the sunlit Moon by SOFIA](https://www.nature.com/articles/s41550-020-01222-x), 2 November 2020
+ 
+
 
