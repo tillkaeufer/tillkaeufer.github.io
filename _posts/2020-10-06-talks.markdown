@@ -10,14 +10,15 @@ permalink: 'events'
 ## Attended Conferences and Given Talks  
 
 ### Conferences 
+- [CHAMELEON School 2](https://chameleon.iwf.oeaw.ac.at/training-events/chameleon-school-ii/): 24 January- 28 January 2022, remotely
 - [STFC Summer School on Data Intensive Science 2021](https://conference.astro.dur.ac.uk/event/3/overview): 13 - 17 September 2021, remotely
 - [2021 Sagan Summer Workshop: Circumstellar Disks and Young Planets](https://nexsci.caltech.edu/workshop/2021/): 19 - 23 July 2021, remotely
 - [Astrochemical Frontiers 2021](https://sites.google.com/view/astrochemical-frontiers-2021/home): 5 - 9 July 2021, remotely
 - [Statistical Challenges in Modern Astronomy VII](https://astronomy.outreach.psu.edu/): 7 - 10 June 2021, remotely
 - Scottish Exoplanet/Brown Dwarf Spring Meeting [SEBD 11](https://sebd11.sciencesconf.org/): 26 April 2021, remotely 
-- [CHAMELEON School 1](https://chameleon.wp.st-andrews.ac.uk/training-events/school-1/): 22 March - 25 March 2021, remotely
+- [CHAMELEON School 1](https://chameleon.iwf.oeaw.ac.at/training-events/school-i/): 22 March - 25 March 2021, remotely
 - ProDiMo Day: 3 December 2020, remotely
-- [CHAMELEON Network Kick-off Meeting](https://chameleon.wp.st-andrews.ac.uk/training-events/kick-off-meeting/): 23 - 26 November 2020, remotely
+- [CHAMELEON Network Kick-off Meeting](https://chameleon.iwf.oeaw.ac.at/training-events/kick-off-meeting/): 23 - 26 November 2020, remotely
 - Scottish Exoplanet/Brown Dwarf Autumn Meeting [SEBD 10](https://sebd10.sciencesconf.org/): 21 October 2020, remotely
 
 ### Talks
