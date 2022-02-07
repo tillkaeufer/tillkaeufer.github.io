@@ -27,6 +27,7 @@ permalink: 'events'
 - First Year Talk, St Andrews Astronomy Lunch Talk: 23 February 2021
 - 'Protoplanetary Disks: Understanding SEDs using Machine Learning', AIRUB Science Seminar: 17 February 2021
 - [StA-CES Journal Club](https://exoplanets.wp.st-andrews.ac.uk/talks-and-journal-club/journal-club/) talks:
+	- [A novel way of measuring the gas disk mass of protoplanetary disks using N2H+ and C18O](https://arxiv.org/abs/2201.09900), 7 February 2022
 	- [Molecules with ALMA at Planet-forming Scales (MAPS) I: Program Overview and Highlights](https://arxiv.org/abs/2109.06268), 20 September 2021
 	- [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7), 28 June 2021
 	- [What Is Life: Various Definitions Towards The Contemporary Astrobiology](https://www.researchgate.net/publication/281452827_What_Is_Life_Various_Definitions_Towards_The_Contemporary_Astrobiology), 12 April 2021
