@@ -8,7 +8,7 @@ permalink: 'cv'
 ## Curriculum vitae
 
 ### Education
-+ 2020 - now: PhD in Astronomy at the University of St&nbsp;Andrews, UK  
++ 2020 - now: PhD in Astronomy at the University of St&nbsp;Andrews, SRON, and the IWF  
 Thesis: Machine Learning from Complex Disk Models
 + 2018 -2020: M.Sc. in Physics at the Ruhr-University Bochum, Germany  
 Thesis: Analysing the Performance of Self-Organizing Maps for the Classification of Low Surface Brightness Objects
