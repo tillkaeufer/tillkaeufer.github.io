@@ -10,6 +10,7 @@ permalink: 'events'
 ## Attended Conferences and Given Talks  
 
 ### Conferences 
+- [NOVA](https://nova-astronomy.nl/) Network II meeeting: 30 March 2022, Leiden
 - Mini-Symposium between [LIACS](https://liacs.leidenuniv.nl/) and [SRON](https://www.sron.nl/) on AI/ML: 23 February 2022, Leiden
 - [CHAMELEON School 2](https://chameleon.iwf.oeaw.ac.at/training-events/chameleon-school-ii/): 24 January- 28 January 2022, remotely
 - [STFC Summer School on Data Intensive Science 2021](https://conference.astro.dur.ac.uk/event/3/overview): 13 - 17 September 2021, remotely
