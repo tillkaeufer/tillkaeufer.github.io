@@ -10,6 +10,7 @@ permalink: 'events'
 ## Attended Conferences and Given Talks  
 
 ### Conferences 
+-  [Nederlandse Astronomenconferentie 2022](https://indico.cern.ch/event/1113693/): 30 May - 1 June 2022, Blankenberge
 - [NOVA](https://nova-astronomy.nl/) Network II meeeting: 30 March 2022, Leiden
 - Mini-Symposium between [LIACS](https://liacs.leidenuniv.nl/) and [SRON](https://www.sron.nl/) on AI/ML: 23 February 2022, Leiden
 - [CHAMELEON School 2](https://chameleon.iwf.oeaw.ac.at/training-events/chameleon-school-ii/): 24 January- 28 January 2022, remotely
@@ -24,6 +25,7 @@ permalink: 'events'
 - Scottish Exoplanet/Brown Dwarf Autumn Meeting [SEBD 10](https://sebd10.sciencesconf.org/): 21 October 2020, remotely
 
 ### Talks
+- 'Analysing the SEDs of protoplanetary disks with machine learning', [NAC 2022](https://indico.cern.ch/event/1113693/contributions/4861838/): 31 May 2022
 - Host and Organizer of the Hands-on Session: Neural Networks, CHAMELEON School 1: 23 March 2021  
   The [repository](https://github.com/tillkaeufer/chameleon_neural_network) with all information to do the session on your own is still online.
 - First Year Talk, St Andrews Astronomy Lunch Talk: 23 February 2021
