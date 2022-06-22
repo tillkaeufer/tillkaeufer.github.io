@@ -10,7 +10,7 @@ permalink: 'events'
 ## Attended Conferences and Given Talks  
 
 ### Conferences 
-- [SRON](https://www.sron.nl/) Science Days, 20 June - 21 June 2022, Soesterberg
+- [SRON](https://www.sron.nl/) Science Days: 20 June - 21 June 2022, Soesterberg
 -  [Nederlandse Astronomenconferentie 2022](https://indico.cern.ch/event/1113693/): 30 May - 1 June 2022, Blankenberge
 - [NOVA](https://nova-astronomy.nl/) Network II meeeting: 30 March 2022, Leiden
 - Mini-Symposium between [LIACS](https://liacs.leidenuniv.nl/) and [SRON](https://www.sron.nl/) on AI/ML: 23 February 2022, Leiden
