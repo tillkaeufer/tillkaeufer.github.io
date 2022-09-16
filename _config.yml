@@ -5,12 +5,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "UA-180557429-1"
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Website of Till Käufer, PhD student in Astronomy at the University of St Andrews, a member of the St Andrews Centre for Exoplanet Science, and an Early Stage Researcher in the CHALEMEON network.
+description: Website of Till Käufer, PhD student in Astronomy and an Early Stage Researcher in the CHALEMEON network.
 
 # Author details for the jekyll-seo-tag gem
 author:
   name: Till Kaeufer
-  email: tfk1@st-andrews.ac.uk
+  email: till.kaeufer@oeaw.ac.at
   
 # Social details for the jekyll-seo-tag gem
 social:
