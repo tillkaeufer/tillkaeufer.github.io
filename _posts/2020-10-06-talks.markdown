@@ -12,6 +12,7 @@ permalink: 'events'
 ### Conferences 
 
 
+- [NOVA](https://nova-astronomy.nl/) Network II meeeting: 26 October 2022, Groningen
 - Chameleon ESR retreat: 31 August - 3 September 2022, Copenhagen
 - [CELTA summer school](http://www.wolfbane.com/astrocelta/): 15 August - 27 August 2022, Inverness and Ilse of Skye
 - [SRON](https://www.sron.nl/) Science Days: 20 June - 21 June 2022, Soesterberg
