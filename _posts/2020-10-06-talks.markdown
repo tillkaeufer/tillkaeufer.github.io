@@ -32,6 +32,7 @@ permalink: 'events'
 
 ### Talks
 
+- 'Analysing the SEDs of protoplanetary disks with machine learning', Kapteyn Science Day: 9 December 2022 
 - 'Analysing the SEDs of protoplanetary disks with machine learning', [CELTA summer school](http://www.wolfbane.com/astrocelta/): 25 August 2022 (talk and poster)
 - 'Analysing the SEDs of protoplanetary disks with machine learning', [NAC 2022](https://indico.cern.ch/event/1113693/contributions/4861838/): 31 May 2022
 - Host and Organizer of the Hands-on Session: Neural Networks, CHAMELEON School 1: 23 March 2021  
