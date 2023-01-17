@@ -16,7 +16,7 @@ If this tool is useful to your work, please cite (Kaeufer et al., in prep).
 
 ## Disclaimer
 
-The SEDs displayed in this tool are created by a neural network introduced in Kaeufer et al. (in prep). The network will predict SED for every combination of input parameters. This does not mean that the predictions are reasonable in all cases. This can be because the chosen settings are physically not possible, or because the neural network has trouble finding good predictions for it. The latter is especially the case if you increase the inclination to look at the disk close to edge-on.
+The SEDs displayed in this tool are created by a neural network introduced in Kaeufer et al. (in prep). The network will predict SED for every combination of input parameters. This does not mean that the predictions are reasonable in all cases. This can be because the chosen settings are physically not possible, or because the neural network has trouble finding good predictions for it. The latter is especially the case if you increase the inclination to look at the disk close to edge-on. If the NN is outside of its comfort zone, warnings pop up. Please do not ignore them.
 
 The tool should be used to get a feeling for the influence of different disk parameters or to get rough estimations for model parameters that can explain an observation.
 
@@ -33,6 +33,7 @@ The stellar parameters can be used to place the star in the Hertzsprung-Russell 
 
 ## Example files
 
-The parameter input file should contain the parameter value (not on a logarithmic scale) followed by the parameter name (as shown in the example). [View example input parameter file for a single zone model](https://raw.githubusercontent.com/tillkaeufer/SEDpredictor/main/Example_input.txt){:target="_blank"}
-or a [two-zone model](https://raw.githubusercontent.com/tillkaeufer/SEDpredictor/main/Example_input_two.txt){:target="_blank"}
+The parameter input file should contain the parameter value (not on a logarithmic scale) followed by the parameter name (as shown in the example). View the example input parameter file for a [single zone model](https://raw.githubusercontent.com/tillkaeufer/SEDpredictor/main/Example_input.txt){:target="_blank"}
+or a [two-zone model](https://raw.githubusercontent.com/tillkaeufer/SEDpredictor/main/Example_input_two.txt){:target="_blank"}.
+
 The SED file should contain at least 3 columns. The first one displaying the wavelength in micrometre, the second one listing the flux in Jy at this wavelength, and the third one listing the uncertainty in Jy. Optionally, a fourth column can be added to include the name of the used instrument. This is not yet used in the online tool but might be added in the future. [View example input SED file](https://raw.githubusercontent.com/tillkaeufer/SEDpredictor/main/Example_observation/49Cet/SED_to_fit.dat){:target="_blank"}
