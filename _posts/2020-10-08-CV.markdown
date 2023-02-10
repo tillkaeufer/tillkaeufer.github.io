@@ -16,7 +16,7 @@ Thesis: Analysing the Performance of Self-Organizing Maps for the Classification
 Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry 
 
 ### Outreach and Teaching
-+ 09/2022 - now: Teaching assistance for Statistics for Astronomy at the Rijksuniversiteit Groningen
++ 09/2022 - 10/2022: Teaching assistance for Statistics for Astronomy at the Rijksuniversiteit Groningen
 + 10/2020 - 08/2022: Host and Organizer of the [StA-CES Journal Club](https://exoplanets.wp.st-andrews.ac.uk/talks-and-journal-club/journal-club/)
 + 07/2021: Workshop leader of Introduction to Python at the University of St Andrews
 + 01/2021 - 05/2021: Tutor of Computational Astronomy at the University of St Andrews
