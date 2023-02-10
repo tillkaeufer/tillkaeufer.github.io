@@ -10,9 +10,10 @@ permalink: 'sedpredictor'
 ## Link to the tool
 
 This tool predictions SEDs of protoplanetary disk using neural networks.
-If this tool is useful to your work, please cite (Kaeufer et al., in prep).
+If this tool is useful to your work, please cite 
+[Kaeufer et al. 2023](){:target="_blank"}.
 
-[Go to the prediction webpage](https://sedpredictor.streamlit.app/){:target="_blank"}
+[Go to the prediction webpage](https://arxiv.org/abs/2302.04629){:target="_blank"}
 
 ## Disclaimer
 
