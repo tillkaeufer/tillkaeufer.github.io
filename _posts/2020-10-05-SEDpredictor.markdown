@@ -11,13 +11,14 @@ permalink: 'sedpredictor'
 
 This tool predictions SEDs of protoplanetary disk using neural networks.
 If this tool is useful to your work, please cite 
-[Kaeufer et al. 2023](https://arxiv.org/abs/2302.04629){:target="_blank"}.
+[Kaeufer et al. 2023](https://www.aanda.org/articles/aa/full_html/2023/04/aa45461-22/aa45461-22.html){:target="_blank"}.
 
 [Go to the prediction webpage](https://sedpredictor.streamlit.app/){:target="_blank"}
 
 ## Disclaimer
 
-The SEDs displayed in this tool are created by a neural network introduced in Kaeufer et al. (in prep). The network will predict SED for every combination of input parameters. This does not mean that the predictions are reasonable in all cases. This can be because the chosen settings are physically not possible, or because the neural network has trouble finding good predictions for it. The latter is especially the case if you increase the inclination to look at the disk close to edge-on. If the NN is outside of its comfort zone, warnings pop up. Please do not ignore them.
+The SEDs displayed in this tool are created by a neural network introduced in 
+[Kaeufer et al. 2023](https://www.aanda.org/articles/aa/full_html/2023/04/aa45461-22/aa45461-22.html){:target="_blank"}. The network will predict SED for every combination of input parameters. This does not mean that the predictions are reasonable in all cases. This can be because the chosen settings are physically not possible, or because the neural network has trouble finding good predictions for it. The latter is especially the case if you increase the inclination to look at the disk close to edge-on. If the NN is outside of its comfort zone, warnings pop up. Please do not ignore them.
 
 The tool should be used to get a feeling for the influence of different disk parameters or to get rough estimations for model parameters that can explain an observation.
 
