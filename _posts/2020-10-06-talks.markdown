@@ -11,6 +11,7 @@ permalink: 'events'
 
 ### Conferences 
 
+- [Protostars and Planets VII](http://ppvii.org/): 10 April - 15 April 2023, Kyoto
 - [CHAMELEON School 3](https://chameleon.iwf.oeaw.ac.at/training-events/chameleon-school-iii/): 24 January- 27 January 2023, Graz
 - [NOVA](https://nova-astronomy.nl/) Network II meeeting: 26 October 2022, Groningen
 - Chameleon ESR retreat: 31 August - 3 September 2022, Copenhagen
@@ -32,6 +33,7 @@ permalink: 'events'
 
 ### Talks
 
+- 'Analysing the SEDs of protoplanetary disks with machine learning', [PPVII](http://ppvii.org/): 10 April - 15 April 2023, Kyoto (poster)
 - 'Analysing the SEDs of protoplanetary disks with machine learning', Kapteyn Science Day: 9 December 2022 
 - 'Analysing the SEDs of protoplanetary disks with machine learning', [CELTA summer school](http://www.wolfbane.com/astrocelta/): 25 August 2022 (talk and poster)
 - 'Analysing the SEDs of protoplanetary disks with machine learning', [NAC 2022](https://indico.cern.ch/event/1113693/contributions/4861838/): 31 May 2022
