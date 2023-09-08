@@ -11,12 +11,18 @@ permalink: 'skills'
 
 ### Astronomy
 - Protoplanetary Disks
+- Line emission
+- SEDs
+- Sample statistics
+- Fitting procedures
+- Model development
 - ProDiMo, prodimopy
 - MCFOST
-- SEDs
 
 ### Programming
 - Python
+- Bayesian analysis
+- Hamiltonian MC
 - Machine Learning
 - Neuronal Networks
 - Emulators
