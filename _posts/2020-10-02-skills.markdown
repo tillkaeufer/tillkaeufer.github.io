@@ -16,6 +16,7 @@ permalink: 'skills'
 - Sample statistics
 - Fitting procedures
 - Model development
+- Slab models
 - ProDiMo, prodimopy
 - MCFOST
 
