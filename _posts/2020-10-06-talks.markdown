@@ -23,7 +23,7 @@ permalink: 'events'
 - [NOVA](https://nova-astronomy.nl/) Network II meeeting: 30 March 2022, Leiden
 - Mini-Symposium between [LIACS](https://liacs.leidenuniv.nl/) and [SRON](https://www.sron.nl/) on AI/ML: 23 February 2022, Leiden
 - [CHAMELEON School 2](https://chameleon.iwf.oeaw.ac.at/training-events/chameleon-school-ii/): 24 January- 28 January 2022, remotely
-- [STFC Summer School on Data Intensive Science 2021](https://conference.astro.dur.ac.uk/event/3/overview): 13 - 17 September 2021, remotely
+- STFC Summer School on Data Intensive Science 2021: 13 - 17 September 2021, remotely
 - [2021 Sagan Summer Workshop: Circumstellar Disks and Young Planets](https://nexsci.caltech.edu/workshop/2021/): 19 - 23 July 2021, remotely
 - [Astrochemical Frontiers 2021](https://sites.google.com/view/astrochemical-frontiers-2021/home): 5 - 9 July 2021, remotely
 - [Statistical Challenges in Modern Astronomy VII](https://astronomy.outreach.psu.edu/): 7 - 10 June 2021, remotely
