@@ -10,7 +10,7 @@ permalink: 'contact'
 ## Contact Information
 
 Till Käufer (he/him)  
-Post graduate researcher (Marie Curie Fellow)  
+PhD student (Marie Curie Fellow)  
 ÖAW-Institut für Weltraumforschung  
 Schmiedlstraße 6  
 8042 Graz  
