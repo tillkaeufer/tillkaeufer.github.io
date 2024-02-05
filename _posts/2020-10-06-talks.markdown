@@ -19,7 +19,7 @@ permalink: 'events'
 - Chameleon ESR retreat: 31 August - 3 September 2022, Copenhagen
 - [CELTA summer school](http://www.wolfbane.com/astrocelta/): 15 August - 27 August 2022, Inverness and Ilse of Skye
 - [SRON](https://www.sron.nl/) Science Days: 20 June - 21 June 2022, Soesterberg
--  [Nederlandse Astronomenconferentie 2022](https://indico.cern.ch/event/1113693/): 30 May - 1 June 2022, Blankenberge
+- [Nederlandse Astronomenconferentie 2022](https://indico.cern.ch/event/1113693/): 30 May - 1 June 2022, Blankenberge
 - [NOVA](https://nova-astronomy.nl/) Network II meeeting: 30 March 2022, Leiden
 - Mini-Symposium between [LIACS](https://liacs.leidenuniv.nl/) and [SRON](https://www.sron.nl/) on AI/ML: 23 February 2022, Leiden
 - [CHAMELEON School 2](https://chameleon.iwf.oeaw.ac.at/training-events/chameleon-school-ii/): 24 January- 28 January 2022, remotely

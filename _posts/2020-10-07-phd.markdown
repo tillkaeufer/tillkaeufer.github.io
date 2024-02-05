@@ -8,18 +8,13 @@ permalink: 'phd'
 
 ## PhD project
 ### Machine Learning from Complex Disk Models
-Spectral features emitted by molecules situated in the upper layers of protoplanetary
-disks, as for example observable in the near to mid infrared with VLT and JWST, in
-principle allow us to determine the temperature and chemical composition of the gas in
-the planet forming regions of the disks within ~10 au, which has important implications
-for planet formation. My project combines our expertise in modelling molecular
-emission bands from protoplanetary disks (Woitke et al. 2016, A&A 586, 103) with new
-machine learning techniques developed in the exoplanet community. Our ambitious aim
-is to train AI systems based on the spectra predicted by our complex disk models, where
-we put in all the relevant astrochemistry, radiative transfer and heating/cooling physics.
-Those AI systems can then quickly predict the emergent line emission spectra as
-function of the physical input parameters like element abundances, temperature profile,
-UV irradiation, dust/gas ratio, etc., which will allow us to thoroughly fit and analyse
-observational data and determine the physical disk parameters and their observational
-uncertainties including their error bars.
 
+Planets form in so-called protoplanetary disks. 
+These regions are investigated to improve our understanding of planet formation and analyse the material that will make up planets.
+The analysis is done by the comparison of models to observations.
+However, here lie many challenges, especially regarding the computational speed of complex disk models.
+
+During my PhD, we tackled this problem in different ways, including Machine Learning and the development of new disk models.
+We created Neural networks that can predict the spectral energy distributions (SEDs) of protoplanetary disks within milliseconds.
+This allowed us to perform a full Bayesian analysis for 30 well-known protoplanetary disks to determine their physical disk properties, including uncertainties and degeneracies.
+Additionally, we created a disk model that can describe the molecular line emission as well as the dust continuum as seen by the James Webb Space Telescope. We benchmarked this model and apply it to a JWST spectrum to extract the conditions under which molecules emit in protoplanetary disks.
