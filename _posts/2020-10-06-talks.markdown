@@ -11,6 +11,7 @@ permalink: 'events'
 
 ### Conferences 
 
+- JWST/MIRI GTO [MINDS](https://minds.cab.inta-csic.es/) team meeting: 14 February - 16 February 2024, Vienna
 - [GRAZ-VIENNA EXOPLANET SCIENTIST MEETING III](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-iii): 4 October 2023, Vienna
 - [GRAZ-VIENNA EXOPLANET SCIENTIST MEETING II](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-ii): 5 May 2023, Graz
 - [Protostars and Planets VII](http://ppvii.org/): 10 April - 15 April 2023, Kyoto
@@ -34,6 +35,7 @@ permalink: 'events'
 - Scottish Exoplanet/Brown Dwarf Autumn Meeting [SEBD 10](https://sebd10.sciencesconf.org/): 21 October 2020, remotely
 
 ### Talks
+- 'A dust and gas model to analyse MIRI spectra in a Bayesian way', [MINDS](https://minds.cab.inta-csic.es/) meeting: 16 February 2024, Vienna
 - 'A simple disk model to explain JWST MIRI observations', [GVESM III](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-iii): 4 October 2023, Vienna
 - 'Analysing the SEDs of protoplanetary disks with machine learning', [GVESM II](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-ii): 5 May 2023, Graz 
 - 'Analysing the SEDs of protoplanetary disks with machine learning', [PPVII](http://ppvii.org/): 10 April - 15 April 2023, Kyoto (poster)
