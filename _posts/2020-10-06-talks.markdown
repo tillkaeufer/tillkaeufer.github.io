@@ -11,13 +11,16 @@ permalink: 'events'
 
 ### Conferences 
 
+- [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 30 July - 2 August 2024, Copenhagen
+- [Exploring Exoplanets](https://exploringexoplanets.eu/): 29 July - 1 August 2024, Copenhagen
 - JWST/MIRI GTO [MINDS](https://minds.cab.inta-csic.es/) team meeting: 14 February - 16 February 2024, Vienna
 - [GRAZ-VIENNA EXOPLANET SCIENTIST MEETING III](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-iii): 4 October 2023, Vienna
+- Chameleon ESR retreat II: 10 May- 12 May 2023, Durbuy
 - [GRAZ-VIENNA EXOPLANET SCIENTIST MEETING II](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-ii): 5 May 2023, Graz
 - [Protostars and Planets VII](http://ppvii.org/): 10 April - 15 April 2023, Kyoto
 - [CHAMELEON School 3](https://chameleon.iwf.oeaw.ac.at/training-events/chameleon-school-iii/): 24 January- 27 January 2023, Graz
 - [NOVA](https://nova-astronomy.nl/) Network II meeeting: 26 October 2022, Groningen
-- Chameleon ESR retreat: 31 August - 3 September 2022, Copenhagen
+- Chameleon ESR retreat I: 31 August - 3 September 2022, Copenhagen
 - [CELTA summer school](http://www.wolfbane.com/astrocelta/): 15 August - 27 August 2022, Inverness and Ilse of Skye
 - [SRON](https://www.sron.nl/) Science Days: 20 June - 21 June 2022, Soesterberg
 - [Nederlandse Astronomenconferentie 2022](https://indico.cern.ch/event/1113693/): 30 May - 1 June 2022, Blankenberge
@@ -35,6 +38,11 @@ permalink: 'events'
 - Scottish Exoplanet/Brown Dwarf Autumn Meeting [SEBD 10](https://sebd10.sciencesconf.org/): 21 October 2020, remotely
 
 ### Talks
+
+
+- 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 30 July - 2 August 2024, Copenhagen (poster) ** Winner of the conference poster price **
+- 'Going one step beyond slab models', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 31 July 2024, Copenhagen
+- 'How do planets form?', [Exploring Exoplanets](https://exploringexoplanets.eu/): 1 August 2024, Copenhagen
 - 'Geburtsstätten von Planeten durch die Augen des James-Webb-Weltraumteleskops', [Westfälischen Volkssternwarte](https://sternwarte-recklinghausen.de/) 13 March 2024, Recklinghausen
 - 'A dust and gas model to analyse MIRI spectra in a Bayesian way', [MINDS](https://minds.cab.inta-csic.es/) meeting: 16 February 2024, Vienna
 - 'A simple disk model to explain JWST MIRI observations', [GVESM III](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-iii): 4 October 2023, Vienna
