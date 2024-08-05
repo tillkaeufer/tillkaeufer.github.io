@@ -40,7 +40,7 @@ permalink: 'events'
 ### Talks
 
 
-- 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 30 July - 2 August 2024, Copenhagen (poster) ** Winner of the conference poster price **
+- 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 30 July - 2 August 2024, Copenhagen (poster) <strong> Winner of the conference poster price <strong>
 - 'How do planets form?', [Exploring Exoplanets](https://exploringexoplanets.eu/): 1 August 2024, Copenhagen
 - 'Going one step beyond slab models', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 31 July 2024, Copenhagen
 - 'Geburtsstätten von Planeten durch die Augen des James-Webb-Weltraumteleskops', [Westfälischen Volkssternwarte](https://sternwarte-recklinghausen.de/) 13 March 2024, Recklinghausen
