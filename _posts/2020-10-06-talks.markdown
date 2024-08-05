@@ -41,8 +41,8 @@ permalink: 'events'
 
 
 - 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 30 July - 2 August 2024, Copenhagen (poster) ** Winner of the conference poster price **
-- 'Going one step beyond slab models', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 31 July 2024, Copenhagen
 - 'How do planets form?', [Exploring Exoplanets](https://exploringexoplanets.eu/): 1 August 2024, Copenhagen
+- 'Going one step beyond slab models', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 31 July 2024, Copenhagen
 - 'Geburtsstätten von Planeten durch die Augen des James-Webb-Weltraumteleskops', [Westfälischen Volkssternwarte](https://sternwarte-recklinghausen.de/) 13 March 2024, Recklinghausen
 - 'A dust and gas model to analyse MIRI spectra in a Bayesian way', [MINDS](https://minds.cab.inta-csic.es/) meeting: 16 February 2024, Vienna
 - 'A simple disk model to explain JWST MIRI observations', [GVESM III](https://www.oeaw.ac.at/en/iwf/meetings/gvesm/gvesm-iii): 4 October 2023, Vienna
