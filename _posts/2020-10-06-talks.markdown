@@ -11,6 +11,7 @@ permalink: 'events'
 
 ### Conferences 
 
+- [Dust to DNA PhD summer school](https://michiellambrechts.bitbucket.io/dust2dna.html): 19 August - 23 August 2024, Copenhagen
 - [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 30 July - 2 August 2024, Copenhagen
 - [Exploring Exoplanets](https://exploringexoplanets.eu/): 29 July - 1 August 2024, Copenhagen
 - JWST/MIRI GTO [MINDS](https://minds.cab.inta-csic.es/) team meeting: 14 February - 16 February 2024, Vienna
@@ -39,7 +40,7 @@ permalink: 'events'
 
 ### Talks
 
-
+- 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Dust to DNA PhD summer school](https://michiellambrechts.bitbucket.io/dust2dna.html): 19 August - 23 August 2024, Copenhagen (poster)
 - 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 30 July - 2 August 2024, Copenhagen (poster) <strong> Winner of the conference poster price <strong>
 - 'How do planets form?', [Exploring Exoplanets](https://exploringexoplanets.eu/): 1 August 2024, Copenhagen
 - 'Going one step beyond slab models', [Are we a Unique Species on a Unique Planet?](https://cels.nbi.ku.dk/english/conference-cels): 31 July 2024, Copenhagen
