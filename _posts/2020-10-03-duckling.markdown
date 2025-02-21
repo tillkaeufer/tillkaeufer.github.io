@@ -7,7 +7,10 @@ permalink: 'duckling'
 [<img src="/images/DuCKLinG_logo.png" class="fit image">](/duckling)
 
 
-DuCKLinG is a fast 1D model that can be used to interpret JWST/MIRI spectra of protoplanetary disks.
-For an introduction to DuCKLinG, see the [first DuCKLinG paper](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.209K/abstract) that benchmarked the model and fitted the GWLup.
-Additionally, this model has been applied [in a paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240806077K/abstract) to disentangle the dust and gas contributions of the JWST/MIRI spectrum of a very low-mass star.
-If you are interested in using the model, [please contact me](/contact).
+DuCKLinG is a fast 1D model that can be used to interpret JWST/MIRI spectra of protoplanetary disks. The [repository](https://github.com/tillkaeufer/DuCKLinG){:target="_blank"} with the code is publicly available and you are very welcome to use it. If you are just starting, I recommend checking out the [hands-on session](https://github.com/tillkaeufer/duckling_hands-on_session){:target="_blank"} that introduces the basic functionalities of the code including simple retrievals.
+
+If the code is useful for your research, please get in touch (t.kaeufer@exeter.ac.uk). I'm very happy to discuss your project and will hopefully be able to help you with any problems regarding the code.
+
+For an introduction to DuCKLinG, see the [first DuCKLinG paper](https://ui.adsabs.harvard.edu/abs/2024A%26A...687A.209K/abstract){:target="_blank"} that benchmarked the model and fitted GWLup.
+
+Additionally, this model has been applied [in a paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240806077K/abstract){:target="_blank"} to disentangle the dust and gas contributions of the JWST/MIRI spectrum of a very low-mass star.
