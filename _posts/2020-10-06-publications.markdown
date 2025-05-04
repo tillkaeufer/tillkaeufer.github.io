@@ -11,9 +11,12 @@ For an updated list of publications, [see NASA/ADS](https://ui.adsabs.harvard.ed
 
 ### First author
 
-+ [Disentangling the dust and gas contributions of the JWST/MIRI spectrum of Sz 28](https://doi.org/10.1051/0004-6361/202450891){:target="_blank"},  Kaeufer T.; Woitke P.; Kamp I.; Kanwar J. ; Min M., 2024, Astronomy and Astrophysics, 690, A100  
-+ [Bayesian analysis of the molecular emission and dust continuum of protoplanetary disks](https://doi.org/10.1051/0004-6361/202449936){:target="_blank"},  Kaeufer T.; Min M.; Woitke P.; Kamp I.; Arabvahi A., 2024, Astronomy and Astrophysics, 687, A209  
-+ [Analysing the SEDs of protoplanetary disks with machine learning](https://doi.org/10.1051/0004-6361/202245461){:target="_blank"},  Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysics, 672, A30  
++ [Disentangling the dust and gas contributions of the JWST/MIRI spectrum of Sz 28](https://doi.org/10.1051/0004-6361/202450891){:target="_blank"},  
+Kaeufer T.; Woitke P.; Kamp I.; Kanwar J. ; Min M., 2024, Astronomy and Astrophysics, 690, A100  
++ [Bayesian analysis of the molecular emission and dust continuum of protoplanetary disks](https://doi.org/10.1051/0004-6361/202449936){:target="_blank"},  
+Kaeufer T.; Min M.; Woitke P.; Kamp I.; Arabvahi A., 2024, Astronomy and Astrophysics, 687, A209  
++ [Analysing the SEDs of protoplanetary disks with machine learning](https://doi.org/10.1051/0004-6361/202245461){:target="_blank"},  
+Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysics, 672, A30  
 
 ### Co-author
 
