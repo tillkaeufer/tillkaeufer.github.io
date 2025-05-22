@@ -20,7 +20,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
-+ [MINDS. Water reservoirs of compact planet-forming dust disk: A diversity of H$_2$O distributions](https://doi.org/10.48550/arXiv.2505.15237){:target="_blank"}, Temmink et al. 2025  
++ [MINDS. Water reservoirs of compact planet-forming dust disk: A diversity of H₂O distributions](https://doi.org/10.48550/arXiv.2505.15237){:target="_blank"}, Temmink et al. 2025  
 + [MINDS: The very low-mass star and brown dwarf sample - Hidden water in carbon-dominated protoplanetary disks](https://doi.org/10.48550/arXiv.2504.11425){:target="_blank"}, Arabhavi et al. 2025  
 + [MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons](https://doi.org/10.48550/arXiv.2504.11424){:target="_blank"}, Perotti et al. 2025  
 + [Water in Protoplanetary Disks with JWST-MIRI: Spectral Excitation Atlas and Radial Distribution from Temperature Diagnostic Diagrams and Doppler Mapping](https://doi.org/10.3847/1538-3881/ada962){:target="_blank"}, Banzatti et al. 2025  
