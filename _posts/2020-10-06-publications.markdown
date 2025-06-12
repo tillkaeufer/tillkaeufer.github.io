@@ -20,6 +20,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [MINDS: Detection of an inner gas disk caused by evaporating bodies around HD 172555](https://arxiv.org/pdf/2506.09976){:target="_blank"}, Samland et al. 2025  
 + [MINDS: The very low-mass star and brown dwarf sample - Detections and trends in the inner disk gas](https://arxiv.org/abs/2506.02748){:target="_blank"}, Arabhavi et al. 2025b  
 + [MINDS. Water reservoirs of compact planet-forming dust disk: A diversity of H₂O distributions](https://doi.org/10.48550/arXiv.2505.15237){:target="_blank"}, Temmink et al. 2025  
 + [MINDS: The very low-mass star and brown dwarf sample - Hidden water in carbon-dominated protoplanetary disks](https://doi.org/10.48550/arXiv.2504.11425){:target="_blank"}, Arabhavi et al. 2025a  
