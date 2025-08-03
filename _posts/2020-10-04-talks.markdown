@@ -11,6 +11,7 @@ permalink: 'events'
 
 ### Conferences 
 
+- JWST/MIRI GTO [MINDS](https://minds.cab.inta-csic.es/) team meeting: 28 July - 30 July 2025, Groningen
 - [Origin of the Solar System (GRC)](https://www.grc.org/origins-of-solar-systems-conference/2025/): 15 June - 20 June 2025, Mount Holyoke College    
 - [Origin of the Solar System (GRS)](https://www.grc.org/origins-of-solar-systems-grs-conference/2025/): 14 June - 15 June 2025, Mount Holyoke College     
 - [UKEXOM](https://sites.google.com/view/ukexom2025/home?authuser=0): 31 March - 3 April 2025, Leeds  
@@ -44,6 +45,8 @@ permalink: 'events'
 
 ### Talks
 
+- 'Inside the water snowline: Connecting disk evolution to JWST spectra', [MINDS](https://minds.cab.inta-csic.es/) meeting: 29 July 2025, Groningen
+- 'DuCKLinG retrievals', [MINDS](https://minds.cab.inta-csic.es/) meeting: 29 July 2025, Groningen
 - 'Inside the water snowline: Connecting disk evolution to JWST spectra', [Origin of the Solar System (GRC)](https://www.grc.org/origins-of-solar-systems-conference/2025/): 15 June - 20 June 2025, Mount Holyoke College (poster)   
 - 'Inside the water snowline: Connecting disk evolution to JWST spectra', [Origin of the Solar System (GRS)](https://www.grc.org/origins-of-solar-systems-grs-conference/2025/): 14 June - 15 June 2025, Mount Holyoke College (poster)
 - 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [UKEXOM](https://sites.google.com/view/ukexom2025/home?authuser=0): 31 March - 3 April 2025, Leeds  
