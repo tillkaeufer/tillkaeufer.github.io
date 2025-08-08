@@ -20,6 +20,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [MINDS. Cha Hα 1, a brown dwarf with a hydrocarbon-rich disk](https://arxiv.org/abs/2508.05155){:target="_blank"}, Morales-Calderón et al. 2025  
 + [A transition from H2O to C2H2 dominated spectra with decreasing stellar luminosity](https://arxiv.org/abs/2508.04692){:target="_blank"}, Grant et al. 2025  
 + [MINDS. Young binary systems with JWST/MIRI: Variable water-rich primaries and extended emission](https://arxiv.org/abs/2508.02576){:target="_blank"}, Kurtovic et al. 2025  
 + [MINDS: Detection of an inner gas disk caused by evaporating bodies around HD 172555](https://arxiv.org/pdf/2506.09976){:target="_blank"}, Samland et al. 2025  
