@@ -20,6 +20,8 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [Cosmic cascades: How disk substructure regulates the flow of water to inner planetary systems](https://arxiv.org/abs/2508.10402){:target="_blank"}, Krijt et al. 2025  
++ [MINDS. Strong oxygen depletion in the inner regions of a very low-mass star disk?](https://arxiv.org/abs/2508.11761){:target="_blank"}, Kanwar et al. 2025  
 + [MINDS. Cha Hα 1, a brown dwarf with a hydrocarbon-rich disk](https://arxiv.org/abs/2508.05155){:target="_blank"}, Morales-Calderón et al. 2025  
 + [A transition from H2O to C2H2 dominated spectra with decreasing stellar luminosity](https://arxiv.org/abs/2508.04692){:target="_blank"}, Grant et al. 2025  
 + [MINDS. Young binary systems with JWST/MIRI: Variable water-rich primaries and extended emission](https://arxiv.org/abs/2508.02576){:target="_blank"}, Kurtovic et al. 2025  
