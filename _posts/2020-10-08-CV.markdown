@@ -19,7 +19,7 @@ Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry
 ### Outreach and Teaching
 + 10/2025 - now: Participating scientist at the [Pen pal program](https://prescientist.org/penpal-program/)
 + 02/2025 - now: Supervising four Mphys projects 
-+ 08/2024: Speaker at [Exploring Exoplanets](https://exploringexoplanets.eu/), Sciences talks and improv comedy
++ 08/2024: Speaker at Exploring Exoplanets, Sciences talks and improv comedy
 + 03/2024: Outreach talk at [Westfälischen Volkssternwarte](https://sternwarte-recklinghausen.de/)
 + 03/2023 - 08/2024: Organizer of the IWF disk group meeting  
 + 09/2022 - 10/2022: Teaching assistance for Statistics for Astronomy at the Rijksuniversiteit Groningen
