@@ -17,6 +17,10 @@ Thesis: Analysing the Performance of Self-Organizing Maps for the Classification
 Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry 
 
 ### Outreach and Teaching
++ 10/2025 - now: Participating scientist at the [Pen pal program](https://prescientist.org/penpal-program/)
++ 02/2025 - now: Supervising four Mphys projects 
++ 08/2024: Speaker at [Exploring Exoplanets](https://exploringexoplanets.eu/), Sciences talks and improv comedy
++ 03/2024: Outreach talk at [Westfälischen Volkssternwarte](https://sternwarte-recklinghausen.de/)
 + 03/2023 - 08/2024: Organizer of the IWF disk group meeting  
 + 09/2022 - 10/2022: Teaching assistance for Statistics for Astronomy at the Rijksuniversiteit Groningen
 + 10/2020 - 08/2022: Host and Organizer of the [StA-CES Journal Club](https://exoplanets.wp.st-andrews.ac.uk/talks-and-journal-club/journal-club/)
@@ -26,4 +30,3 @@ Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry
 + 05/2019 - 08/2020: [ZDI  Netzwerk  IST.Bochum](https://www.ist-bochum.org/),  Conducting scientific workshops in school classes
 + 06/2019 - 05/2020: Scientific assistant at the Ruhr University, Supervising observations from student groups 
 + 2014 - 2020: Tutor, Teaching students in mathematics
-+ 2018: Poster, Searching diffuse Objects around NGC 7361 using the Kilo Degree Survey, Käufer, T., Bomans, D. J., Stein, M. and Weimann, S., Presented at "The Bewildering Nature of Ultra-diffuse Galaxies" Workshop, Leiden, NL
