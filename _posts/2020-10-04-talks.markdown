@@ -48,7 +48,7 @@ permalink: 'events'
 ### Talks
 
 
-- 'Dust Continuum Kit with Line Emission from Gas (DuCKLinG)', [COST Action CA22133 PLANETS WG2 code introduction meeting](https://costactionplanets.github.io/index.html): 2 October 2025, online. 
+- 'Dust Continuum Kit with Line Emission from Gas (DuCKLinG)', [COST Action CA22133 PLANETS WG2 code introduction meeting](https://costactionplanets.github.io/seminars.html): 2 October 2025, online. 
 - 'Inside the water snowline: Connecting disk evolution to JWST spectra', [UKI Discs meeting 2025](https://ukidiscs.github.io/discs2025/): 10 September 2025, Hatfield
 - 'Inside the water snowline: Connecting disk evolution to JWST spectra', [MINDS](https://minds.cab.inta-csic.es/) meeting: 29 July 2025, Groningen
 - 'DuCKLinG retrievals', [MINDS](https://minds.cab.inta-csic.es/) meeting: 29 July 2025, Groningen
