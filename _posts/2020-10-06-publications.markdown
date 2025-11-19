@@ -11,6 +11,8 @@ For an updated list of publications, [see NASA/ADS](https://ui.adsabs.harvard.ed
 
 ### First author
 
++ [MINDS: The molecule-rich disc of the Herbig star HD 35929 revealed with JWST/MIRI](https://arxiv.org/abs/2511.14418){:target="_blank"},  
+Kaeufer T.; Waters R.; et al., 2025, Monthly Notices of the Royal Astronomical Society 
 + [Disentangling the dust and gas contributions of the JWST/MIRI spectrum of Sz 28](https://doi.org/10.1051/0004-6361/202450891){:target="_blank"},  
 Kaeufer T.; Woitke P.; Kamp I.; Kanwar J. ; Min M., 2024, Astronomy and Astrophysics, 690, A100  
 + [Bayesian analysis of the molecular emission and dust continuum of protoplanetary disks](https://doi.org/10.1051/0004-6361/202449936){:target="_blank"},  
