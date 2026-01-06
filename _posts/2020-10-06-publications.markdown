@@ -22,6 +22,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [Protoplanetary disk cavities with JWST-MIRI: a dichotomy in molecular emission](https://arxiv.org/abs/2601.02344){:target="_blank"}, Mallaney et al. 2026  
 + [MINDS: The very low-mass star and brown dwarf sample II. Probing disk settling, dust properties, and dust-gas interplay with JWST/MIRI](https://arxiv.org/abs/2509.16004){:target="_blank"}, Jang et al. 2025  
 + [Cosmic cascades: How disk substructure regulates the flow of water to inner planetary systems](https://arxiv.org/abs/2508.10402){:target="_blank"}, Krijt et al. 2025  
 + [MINDS. Strong oxygen depletion in the inner regions of a very low-mass star disk?](https://arxiv.org/abs/2508.11761){:target="_blank"}, Kanwar et al. 2025  
