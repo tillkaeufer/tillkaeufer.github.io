@@ -25,8 +25,8 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 + [Molecular diagnostics for the mid-infrared emission of planet-forming disks. Carbon and oxygen elemental abundances](https://arxiv.org/abs/2602.16030){:target="_blank"}, Arabhavi et al. 2026 
 + [MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons](https://iopscience.iop.org/article/10.3847/1538-4357/ae2793){:target="_blank"}, Perotti et al. 2026  
 + [Protoplanetary disk cavities with JWST-MIRI: a dichotomy in molecular emission](https://arxiv.org/abs/2601.02344){:target="_blank"}, Mallaney et al. 2026  
-+ [MINDS. Strong oxygen depletion in the inner regions of a very low-mass star disk?](https://arxiv.org/abs/2508.11761){:target="_blank"}, Kanwar et al. 2026  
-+ [MINDS. Young binary systems with JWST/MIRI: Variable water-rich primaries and extended emission](https://arxiv.org/abs/2508.02576){:target="_blank"}, Kurtovic et al. 2026  
++ [MINDS. Strong oxygen depletion in the inner regions of a very low-mass star disk?](https://doi.org/10.1051/0004-6361/202451844){:target="_blank"}, Kanwar et al. 2026  
++ [MINDS. Young binary systems with JWST/MIRI: Variable water-rich primaries and extended emission](https://doi.org/10.1051/0004-6361/202554927){:target="_blank"}, Kurtovic et al. 2026  
 + [MINDS: The very low-mass star and brown dwarf sample II. Probing disk settling, dust properties, and dust-gas interplay with JWST/MIRI](https://doi.org/10.1051/0004-6361/202556193){:target="_blank"}, Jang et al. 2025  
 + [MINDS. Cha Hα 1, a brown dwarf with a hydrocarbon-rich disk](https://doi.org/10.1051/0004-6361/202555621){:target="_blank"}, Morales-Calderón et al. 2025  
 + [MINDS: A transition from H2O to C2H2 dominated spectra with decreasing stellar luminosity](https://doi.org/10.1051/0004-6361/202555862){:target="_blank"}, Grant et al. 2025  
