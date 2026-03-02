@@ -17,7 +17,7 @@ Thesis: Analysing the Performance of Self-Organizing Maps for the Classification
 Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry 
 
 ### Outreach and Teaching
-+ 03/2026 - now: Host and Organizer of the [Exeter Astro Seminar](https://www.exeter.ac.uk/research/groups/physics/astrophysics/events/)
++ 03/2026 - now: Co-organizer of the [Exeter Astro Seminar](https://www.exeter.ac.uk/research/groups/physics/astrophysics/events/)
 + 01/2026 - now: Supervising two Msc projects
 + 10/2025 - now: Participating scientist at the [Pen pal program](https://prescientist.org/penpal-program/)
 + 02/2025 - now: Supervising four Mphys projects 
