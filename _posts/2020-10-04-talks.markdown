@@ -11,6 +11,8 @@ permalink: 'events'
 
 ### Conferences 
 
+- [Invited visit to the University of Bern](https://cshvisit.wikidot.com/schedule:colloquia-fs2026): 23 - 25 March 2026, Bern 
+- JWST/MIRI GTO [MINDS](https://minds.cab.inta-csic.es/) team meeting: 16 March - 17 March 2026, Heidelberg
 - [UK & Ireland Discs meeting 2025](https://ukidiscs.github.io/discs2025/): 8 September - 10 September 2025, Hatfield (Session chair)  
 - JWST/MIRI GTO [MINDS](https://minds.cab.inta-csic.es/) team meeting: 28 July - 30 July 2025, Groningen
 - [Origin of the Solar System (GRC)](https://www.grc.org/origins-of-solar-systems-conference/2025/): 15 June - 20 June 2025, Mount Holyoke College    
@@ -47,8 +49,9 @@ permalink: 'events'
 
 ### Talks
 
-
-- 'Dust Continuum Kit with Line Emission from Gas (DuCKLinG)', [COST Action CA22133 PLANETS WG2 code introduction meeting](https://costactionplanets.github.io/seminars.html): 2 October 2025, online. 
+- 'JWST/MIRI spectra of protoplanetary disks: Connecting observed trends to evolutionary processes', [Invited colloquium at University of Bern](https://cshvisit.wikidot.com/schedule:colloquia-fs2026): 24 March 2026, Bern 
+- '2D dynamical modelling of water emission', [MINDS](https://minds.cab.inta-csic.es/) meeting: 17 March 2026, Heidelberg
+- 'Dust Continuum Kit with Line Emission from Gas (DuCKLinG)', [COST Action CA22133 PLANETS WG2 code introduction meeting](https://costactionplanets.github.io/seminars.html): 2 October 2025, online 
 - 'Inside the water snowline: Connecting disk evolution to JWST spectra', [UKI Discs meeting 2025](https://ukidiscs.github.io/discs2025/): 10 September 2025, Hatfield
 - 'Inside the water snowline: Connecting disk evolution to JWST spectra', [MINDS](https://minds.cab.inta-csic.es/) meeting: 29 July 2025, Groningen
 - 'DuCKLinG retrievals', [MINDS](https://minds.cab.inta-csic.es/) meeting: 29 July 2025, Groningen
@@ -56,7 +59,7 @@ permalink: 'events'
 - 'Inside the water snowline: Connecting disk evolution to JWST spectra', [Origin of the Solar System (GRS)](https://www.grc.org/origins-of-solar-systems-grs-conference/2025/): 14 June - 15 June 2025, Mount Holyoke College (poster)
 - 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [UKEXOM](https://sites.google.com/view/ukexom2025/home?authuser=0): 31 March - 3 April 2025, Leeds  
 - 'DuCKLinG hands-on session' [A sharper view: Celebrating 3 years of JWST observations of planet-forming disks](https://sites.google.com/view/3-years-of-protoplanetary-disk/home?authuser=0): 24 February - 1 March 2025, Ringberg  
-  The [repository](https://github.com/tillkaeufer/duckling_hands-on_session) will all information to do the session on your own is available online.  
+  The [repository](https://github.com/tillkaeufer/duckling_hands-on_session) with all information to do the session on your own is available online.  
 - 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Dust to DNA PhD summer school](https://michiellambrechts.bitbucket.io/dust2dna.html): 19 August - 23 August 2024, Copenhagen (poster)
 - 'DuCKLinG: Interpreting JWST/MIRI spectra of protoplanetary disks', [Are we a Unique Species on a Unique Planet?](https://nbi.ku.dk/english/research/astrophysics/centre-for-exolife-sciences-cels/conference-cels/): 30 July - 2 August 2024, Copenhagen (poster) <strong> Winner of the conference poster price <strong>
 - 'How do planets form?', [Exploring Exoplanets](https://exploringexoplanets.eu/): 1 August 2024, Copenhagen
