@@ -22,6 +22,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [MINDS: Intertwined evolution of dust and gas in large planet-forming disks. A diversity driven by halted pebble drift?](https://arxiv.org/abs/2604.21803){:target="_blank"}, Tabone et al. 2026 
 + [JWST/MIRI Hydrocarbon and Water Absorption in the Wind of a Young Disk: Signatures of Pebble Drift and Carbon Grain Sublimation](https://arxiv.org/abs/2604.12242){:target="_blank"}, Colmenares et al. 2026 
 + [Molecular diagnostics for the mid-infrared emission of planet-forming disks. Carbon and oxygen elemental abundances](https://arxiv.org/abs/2602.16030){:target="_blank"}, Arabhavi et al. 2026 
 + [MINDS. Anatomy of a water-rich, inclined, brown dwarf disk: lack of abundant hydrocarbons](https://iopscience.iop.org/article/10.3847/1538-4357/ae2793){:target="_blank"}, Perotti et al. 2026  
