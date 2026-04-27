@@ -9,7 +9,7 @@ permalink: 'cv'
 
 ### Education
 + 2024 - now: PostDoc in Astronomy at the University of Exeter  
-+ 2020 - 2024: PhD in Astronomy at the University of St&nbsp;Andrews, SRON, and the IWF  
++ 2020 - 2024: PhD in Astronomy at the University of St&nbsp;Andrews, Groningen, SRON, TU&nbsp;Graz, and the IWF  
 Thesis: Unlocking a Bayesian View on Protoplanetary Disks
 + 2018 -2020: M.Sc. in Physics at the Ruhr-University Bochum, Germany  
 Thesis: Analysing the Performance of Self-Organizing Maps for the Classification of Low Surface Brightness Objects
@@ -19,8 +19,8 @@ Thesis: Characterizing KiDS Survey Data for Deep Galaxy Surface Photometry
 ### Outreach and Teaching
 + 03/2026 - now: Co-organizer of the [Exeter Astro Seminar](https://www.exeter.ac.uk/research/groups/physics/astrophysics/events/)
 + 01/2026 - now: Supervising two Msc projects
-+ 10/2025 - now: Participating scientist at the [Pen pal program](https://prescientist.org/penpal-program/)
-+ 02/2025 - now: Supervising four Mphys projects 
++ 10/2025 - 04/2026: Participating scientist at the [Pen pal program](https://prescientist.org/penpal-program/)
++ 02/2025 - 04/2026: Supervising four Mphys projects 
 + 08/2024: Speaker at Exploring Exoplanets, Sciences talks and improv comedy
 + 03/2024: Outreach talk at [Westfälischen Volkssternwarte](https://sternwarte-recklinghausen.de/)
 + 03/2023 - 08/2024: Organizer of the IWF disk group meeting  
