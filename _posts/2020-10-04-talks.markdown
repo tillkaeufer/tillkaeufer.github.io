@@ -49,6 +49,7 @@ permalink: 'events'
 
 ### Talks
 
+-'What are the conditions in regions where planets form?', Invited talk at JWST Flight Operations Team Weekly Briefing: 30 April 2026, online 
 - 'JWST/MIRI spectra of protoplanetary disks: Connecting observed trends to evolutionary processes', [Invited colloquium at University of Bern](https://cshvisit.wikidot.com/schedule:colloquia-fs2026): 24 March 2026, Bern 
 - '2D dynamical modelling of water emission', [MINDS](https://minds.cab.inta-csic.es/) meeting: 17 March 2026, Heidelberg
 - 'Dust Continuum Kit with Line Emission from Gas (DuCKLinG)', [COST Action CA22133 PLANETS WG2 code introduction meeting](https://costactionplanets.github.io/seminars.html): 2 October 2025, online 
