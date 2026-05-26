@@ -22,6 +22,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [JWST-DECO: The Impact of Accretion on Mid-Infrared Observable Water in Planet-forming Disks](https://arxiv.org/pdf/2605.22926){:target="_blank"}, Calahan et al. 2026  
 + [Characterizing the Extended Molecular Hydrogen Winds in Protoplanetary Disks from the JWST Disk Infrared Spectroscopic Chemistry Survey](https://arxiv.org/abs/2605.07016){:target="_blank"}, Narang et al. 2026  
 + [MINDS: Intertwined evolution of dust and gas in large planet-forming disks. A diversity driven by halted pebble drift?](https://arxiv.org/abs/2604.21803){:target="_blank"}, Tabone et al. 2026 
 + [JWST/MIRI Hydrocarbon and Water Absorption in the Wind of a Young Disk: Signatures of Pebble Drift and Carbon Grain Sublimation](https://arxiv.org/abs/2604.12242){:target="_blank"}, Colmenares et al. 2026 
