@@ -22,6 +22,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [MINDS: Complementary inclinations in the binary system HK Tau reveal gas- and ice-phase chemistry](https://arxiv.org/abs/2606.23794){:target="_blank"}, Somigliana et al. 2026  
 + [MINDS survey of silicates in T Tauri disks: Correlation between dust and gas](https://arxiv.org/abs/2606.11026){:target="_blank"}, Varga et al. 2026  
 + [JWST-DECO: The Impact of Accretion on Mid-Infrared Observable Water in Planet-forming Disks](https://arxiv.org/pdf/2605.22926){:target="_blank"}, Calahan et al. 2026  
 + [Characterizing the Extended Molecular Hydrogen Winds in Protoplanetary Disks from the JWST Disk Infrared Spectroscopic Chemistry Survey](https://arxiv.org/abs/2605.07016){:target="_blank"}, Narang et al. 2026  
