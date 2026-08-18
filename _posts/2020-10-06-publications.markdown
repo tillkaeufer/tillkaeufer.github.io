@@ -22,6 +22,7 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [The JDISC Survey: Inner Disk Chemistry of Class I/FS Disks and Tentative Evidence for Early Pebble Drift](https://arxiv.org/abs/2607.22839){:target="_blank"}, Zhang et al. 2026  
 + [Chemical Divergence and Water Depletion: Gas Properties of Evolved Upper Scorpius Disks Revealed by JWST/MIRI](https://arxiv.org/abs/2606.27476){:target="_blank"}, Raul et al. 2026  
 + [MINDS: Complementary inclinations in the binary system HK Tau reveal gas- and ice-phase chemistry](https://arxiv.org/abs/2606.23794){:target="_blank"}, Somigliana et al. 2026  
 + [MINDS survey of silicates in T Tauri disks: Correlation between dust and gas](https://arxiv.org/abs/2606.11026){:target="_blank"}, Varga et al. 2026  
