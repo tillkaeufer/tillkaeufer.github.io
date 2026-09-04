@@ -11,6 +11,8 @@ permalink: 'events'
 
 ### Conferences 
 
+- [COST action meeting: Bridging It](https://sites.google.com/view/bridging-it-cost-meeting/home): 1 September - 4 September 2026, Heidelberg
+- [Discs on the Exe](https://discsontheexe.org): 27 July - 31 July 2026, Exeter (LOC)
 - [Invited visit to the University of Bern](https://cshvisit.wikidot.com/schedule:colloquia-fs2026): 23 - 25 March 2026, Bern 
 - JWST/MIRI GTO [MINDS](https://minds.cab.inta-csic.es/) team meeting: 16 March - 17 March 2026, Heidelberg
 - [UK & Ireland Discs meeting 2025](https://ukidiscs.github.io/discs2025/): 8 September - 10 September 2025, Hatfield (Session chair)  
@@ -49,6 +51,8 @@ permalink: 'events'
 
 ### Talks
 
+- 'JWST/MIRI spectra of protoplanetary disks: Connecting observed trends to evolutionary processes', [COST action meeting: Bridging It](https://sites.google.com/view/bridging-it-cost-meeting/home): 3 September 2026, Heidelberg
+- 'What sets the mid-infrared water emission in protoplanetary discs?', [Discs on the Exe](https://discsontheexe.org): 27 July - 31 July 2026, Exeter (poster)
 - 'What are the conditions in regions where planets form?', Invited talk at JWST Flight Operations Team Weekly Briefing: 30 April 2026, online  
 - 'JWST/MIRI spectra of protoplanetary disks: Connecting observed trends to evolutionary processes', [Invited colloquium at University of Bern](https://cshvisit.wikidot.com/schedule:colloquia-fs2026): 24 March 2026, Bern 
 - '2D dynamical modelling of water emission', [MINDS](https://minds.cab.inta-csic.es/) meeting: 17 March 2026, Heidelberg
