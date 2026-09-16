@@ -11,6 +11,8 @@ For an updated list of publications, [see NASA/ADS](https://ui.adsabs.harvard.ed
 
 ### First author
 
++ [Around thewater snowline: I. Effects of dynamical and chemical interplay on mid-infrared water spectra of protoplanetary discs](https://arxiv.org/abs/2609.17016){:target="_blank"},  
+Kaeufer T.; Krijt S.; Bergin E. A.; Banzatti A.; Williams J., 2026, Monthly Notices of the Royal Astronomical Society
 + [MINDS: The molecule-rich disc of the Herbig star HD 35929 revealed with JWST/MIRI](https://doi.org/10.1093/mnras/staf2056){:target="_blank"},  
 Kaeufer T.; Waters R.; et al., 2025, Monthly Notices of the Royal Astronomical Society 545, 4
 + [Disentangling the dust and gas contributions of the JWST/MIRI spectrum of Sz 28](https://doi.org/10.1051/0004-6361/202450891){:target="_blank"},  
