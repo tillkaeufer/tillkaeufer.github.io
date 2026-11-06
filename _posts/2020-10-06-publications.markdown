@@ -24,6 +24,8 @@ Kaeufer T.; Woitke P.; Min M.; Kamp I.; Pinte C., 2023, Astronomy and Astrophysi
 
 ### Co-author
 
++ [Coordinated Space and Ground Monitoring of Accretion Bursts in a Protoplanetary Disk:
+MIRI and iSHELL observe the long-term modulation of gas within a small inner disk cavity](https://arxiv.org/abs/2611.07253){:target="_blank"}, Hyden et al. 2026  
 + [The JDISC Survey: Inner Disk Chemistry of Class I/FS Disks and Tentative Evidence for Early Pebble Drift](https://arxiv.org/abs/2607.22839){:target="_blank"}, Zhang et al. 2026  
 + [Chemical Divergence and Water Depletion: Gas Properties of Evolved Upper Scorpius Disks Revealed by JWST/MIRI](https://arxiv.org/abs/2606.27476){:target="_blank"}, Raul et al. 2026  
 + [MINDS: Complementary inclinations in the binary system HK Tau reveal gas- and ice-phase chemistry](https://arxiv.org/abs/2606.23794){:target="_blank"}, Somigliana et al. 2026  
